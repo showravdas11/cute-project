@@ -1,0 +1,53 @@
+.logo{
+    width: 110px;
+}
+
+.first-heading{
+    font-size: 80px;
+    font-weight: 700;
+    color: #020549;
+}
+
+.button{
+    background-color: #21B573;
+    color: white;
+    padding:15px 30px;
+    border-radius: 30px;
+    border: none;
+}
+.button:hover{
+    background-color: rgb(250, 136, 60);
+}
+.explore{
+    color: red;
+    padding-left: 20px;
+}
+.explore:hover{
+   color: #21B573;
+}
+
+.pargraph{
+    width: 300px;
+    padding-left: 30px;
+    font-size: 18px;
+    color: gray;
+}
+.make{
+    font-family: 'Geostar', cursive;
+    font-size: 80px;
+    color: grey;
+}
+.first-part{
+    background-color: #E9FCF8;
+}
+.card-part :hover{
+    transform: scale(1.1);
+}
+.card-part img{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.card3{
+    width: 260px;
+    margin-bottom: 20px;
+}
