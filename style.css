@@ -21,6 +21,7 @@
 .explore{
     color: red;
     padding-left: 20px;
+    font-weight: bold;
 }
 .explore:hover{
    color: #21B573;
@@ -50,4 +51,28 @@
 .card3{
     width: 260px;
     margin-bottom: 20px;
+}
+.box:hover{
+    box-shadow: 5px 5px 60px lightgray;
+}
+.box{
+    border-radius: 15px;
+    padding: 50px;
+}
+.part3{
+   background-color: #E9FCF8;
+}
+.page1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+} 
+
+.page1:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 60px lightgray;
+}
+.hand{
+    color: #020549;
+}
+.card-write:hover{
+    color: #21B573;
 }
