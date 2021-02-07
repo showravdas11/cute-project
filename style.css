@@ -81,3 +81,24 @@
     padding: 50px;
     box-shadow: 0 8px 40px 0 rgba(0,0,0,0.2);
 }
+
+.ready{
+    color: rgb(255, 145, 0);
+    font-size: 44px;
+}
+.hand1{
+    color:#020549 ;
+    font-size: 44px;
+}
+.last-paragraph{
+    color: gray;
+    font-size: 20px;
+}
+
+.second-img{
+    position: relative;
+    right: 150px;
+    top: 100px;
+ 
+}
+    
